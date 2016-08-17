@@ -1,0 +1,29 @@
+body {
+	background: #272822;
+	color: white;
+	padding:40px;
+	max-width: 600px;
+	width: 80%;
+	margin: auto;
+}
+h1 {
+	font-family: "Open Sans";
+	font-size: 60px;
+}
+p{
+	font-family: "Playfair Display";
+	font-size: 20px;
+	line-height: 36px;
+}
+a {
+	text-decoration: none;
+	color: #b6b6B6;
+}
+
+img {
+	max-width: 40%;
+	border-radius: 100%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
