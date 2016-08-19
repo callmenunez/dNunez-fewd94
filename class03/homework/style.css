@@ -1,0 +1,30 @@
+div{
+	text-align: center;
+	margin: 0px auto;
+}
+p{
+	background-color: #ff6347;
+	margin: 10px 15px;
+	padding: 20px 5px;
+}
+#black_bg p{
+	background-color: black;
+	color: white;
+	padding: 10px 0px;
+	margin-bottom: 30px;
+}
+.grey_bg{
+	background-color: #dedede;
+	padding-top: 5px;
+	padding-bottom: 20px;
+	max-width: 1270px;
+}
+.blue_txt{
+	color: blue;
+}
+.green_txt{
+	color: green;
+}
+.yellow_txt{
+	color: yellow;
+}
