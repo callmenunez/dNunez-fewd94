@@ -1,70 +1,37 @@
+body {
+    font-family: Lato;
+    max-width: 720px;
+    border-left: 6px solid grey;
+    padding-left: 60px;
+}
+
+h1 {
+    color: red;
+}
+
+h2, h3 {
+    color: grey;
+}
+.image {
+    width: 100%;
+}
+p {
+    line-height: 1.5;
+}
+.continues {
+    width: 720px;
+    display:inline-block;
+    border-bottom: 1px solid grey;
+    margin-bottom: 30px;
+}
 /*Complete the fashion blog from the attached screenshot. Take a look at the copy.txt for what to plug into the HTML.
 
 Some values you will also need:*/
 
-body {
-    width: 720px;
-    padding: 54px;
-    border-left: solid 6px #dddddd;
 
-}
 
-h1, h2, h3, h4, p, a, ul, li {
-    font-family: Lato;
-    font-weight: 300;
-    line-height: 1.5;
-
-}
-
-h1 {
-    color: #df1800;
-    font-size: 60px;
-    margin-bottom: 0px;
-}
-
-h2 {
-    font-size: 30px;
-    margin-top: 0px;
-}
-
-img {
-    max-width: 720px;
-}
-
-#nav_top {
-    list-style-type: none;
-    padding-left: 0px;
-}
-
-li {   
-    display: inline-block;
-}
-
-a {
-    color: #cccccc;
-    margin-left: 0px;
-    font-size: 20px;
-    padding-right: 20px;
-}
-
-.date {
-    color: #cccccc;
-    font-size: 30px;
-}
-#copyright {
-    color: #bbbbbb;
-}
-.align-right {
-    text-align: right;
-    padding: 0px;
-    font-size: 100px;
-}
    /* 
-}
-}
-}
 
-}
 
 High-level text properties:
     #444444
