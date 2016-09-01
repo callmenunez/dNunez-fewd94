@@ -1,0 +1,129 @@
+header {
+	background-color: #000000;
+	border-bottom: 4px solid #fafe00;
+	height: 80px;
+}
+
+main {
+	clear: both;
+	background-color: #eeeeee;
+
+}
+footer {
+	background-color: #000000;
+	clear: both;
+	height: 60px;
+	color: #ffffff;
+	line-height: 60px;
+	font-family: "Source Sans Pro";
+}
+.wrapper {
+	max-width: 960px;
+	margin: 0 auto;
+	clear: both;
+}
+.background_image {
+	background-image: url("../img/coworking.jpg");
+	overflow: hidden;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+h1 {
+	font-family: "Merriweather", serif;
+	color: #fafe00;
+	font-size: 25px;
+	margin: 0px;
+	float: left;
+	line-height: 80px;
+}
+h2 {
+	color: #000000;
+	font-family: "Merriweather";
+	font-style: italic;
+	text-align: center;
+	padding: 15px 0px;
+	margin: 0px;
+	height: 35px;
+}
+h3 {
+	font-family: "Merriweather";
+	margin: 0px 0px 10px 0px;
+	font-weight: 700;
+	font-size: 25px;
+}
+p {
+	font-family: "Source Sans Pro";
+	margin: 0px;
+}
+nav {
+	float: right;
+}
+nav a {
+	color: #ffffff;
+	text-decoration: none;
+	font-family: "Oswald", serif;
+	margin-left: 20px;
+	line-height: 80px;
+}
+.grey_background {
+	background-color: #c6c6c6;
+	clear: both;
+	
+}
+#meet_match {
+	width: 300px;
+	float: right;
+	background-color: rgba(255, 255, 255, 0.75);
+	padding: 40px;
+	vertical-align: middle;
+	margin: 40px 0px;
+	box-shadow: 0px 0px 10px #888888;
+}
+#oswald {
+	font-family: "Oswald";
+}
+.meet_match_button {
+	background-color: #fafe00;
+	display: inline-block;
+	width: 100%;
+	padding: 8px 0px;
+}
+.button {
+	font-family: "Oswald";
+	font-weight: 700;
+	text-align: center;
+	text-decoration: none;
+	color: #000000;
+	border-bottom: 2px solid #999999;
+	border-radius: 5px;
+	margin-top: 20px;
+}
+.three_boxes {
+	width: 33%;
+}
+.box {
+	height: auto;
+	float: left;
+	width: 260px;
+	margin: 40px 0px;
+}
+.middle_box {
+	border-left: 1px solid #c8c8c8;
+	border-right: 1px solid #c8c8c8;
+	margin: 20px 44px;
+	padding: 20px 44px;
+}
+.box_button {
+	background-color: #c6c6c6;
+	display: inline-block;
+	width: 100%;
+	padding: 8px 0px;
+}
+#taste {
+	color: #999999;
+	text-decoration: line-through; 
+}
+#are {
+	border-bottom: solid 2px #fafe00;
+}
